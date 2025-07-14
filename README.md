@@ -14,7 +14,7 @@ A empresa enfrentava o desafio de escolher parceiros logísticos baseando-se em 
 ## 📊 Dashboard Final
 O painel consolidado permite uma análise multifacetada da performance dos fornecedores.
 
-![Dashboard de Análise Logística](dashboard.png)
+[![Dashboard de Análise Logística](dashboard.jpg)]https://raw.githubusercontent.com/keully6/Analise-Logistica-Comex-PowerBI/refs/heads/main/dashboard.jpg
 
 ## 💡 Principais Insights Descobertos
 
