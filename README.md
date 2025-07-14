@@ -14,7 +14,7 @@ A empresa enfrentava o desafio de escolher parceiros logísticos baseando-se em 
 ## 📊 Dashboard Final
 O painel consolidado permite uma análise multifacetada da performance dos fornecedores.
 
-![Dashboard de Análise Logística](dashboard-logistica.png)
+![Dashboard de Análise Logística](dashboard-logistica)
 
 ## 💡 Principais Insights Descobertos
 
